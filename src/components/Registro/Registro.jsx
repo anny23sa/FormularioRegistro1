@@ -1,4 +1,4 @@
-import App from './App.jsx'
+
 import React from 'react'
 import SocialButton from './SocialButton/SocialButton.jsx'
 import Formulario from './Formulario/Formulario.jsx';
